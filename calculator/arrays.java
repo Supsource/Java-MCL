@@ -27,6 +27,9 @@ public class arrays {
                       case 'c':
                           System.out.println("Operating system");
                       case 'e':
+                            System.out.println("Mioro Porcessors");
+                            break;
+
 
                   }
           }
